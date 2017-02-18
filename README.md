@@ -2,7 +2,7 @@
 
 # Build Instructions
 
-You can build the project by dowloading the folder and Importing it into Android Studio. Connect an Android device or emulator as usual and Click Play. It should work properly.
+Go to Android Studio and create a new project. Then, copy and paste the XML code from `activity_main.xml` and copy and paste the Java code from `ActivityMain.java`. If there are errors, look at the other files and make sure everything matches. The, run the app like usual.
 
 # Further Considerations
 
